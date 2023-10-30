@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cd3cf10628ae1095",
+        "id": "db50fd9de7baf0f3",
         "type": "tabs",
         "children": [
           {
-            "id": "e293fb48a3dcd08a",
+            "id": "a284412dcc347b6b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Courses/wise23-24/Foundations-of-Linguistics/Chapter 2 - Basic Concepts.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Courses/wise23-24/Foundations-of-Linguistics/Chapter 2 - Basic Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Courses/wise23-24/Foundations-of-Linguistics/Chapter 2 - Basic Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Courses/wise23-24/Foundations-of-Linguistics/Chapter 2 - Basic Concepts.md"
+              }
             }
           }
         ]
@@ -138,6 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e293fb48a3dcd08a",
-  "lastOpenFiles": []
+  "active": "a284412dcc347b6b",
+  "lastOpenFiles": [
+    "Pasted image 20231030061524.png",
+    "Courses/wise23-24/Foundations-of-Linguistics/Chapter 3 - Rules.md",
+    "Courses/wise23-24/Foundations-of-Linguistics/Chapter 2 - Basic Concepts.md",
+    "Courses/wise23-24/Foundations-of-Linguistics/Chapter 1 - Morphology.md",
+    "Pasted image 20231030060911.png",
+    "Courses/wise23-24/Foundations-of-Linguistics/Haspelmath_Sims_Understanding_Morphology_2010.pdf.crswap",
+    "Untitled.canvas",
+    "Pasted image 20231029161610.png",
+    "Courses/wise23-24/statistik-mit-r/stats-mit-r.pdf",
+    "Courses/wise23-24/statistik-mit-r/Chapter 1 - Morphology.md"
+  ]
 }
