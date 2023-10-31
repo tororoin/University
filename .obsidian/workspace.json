@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "db50fd9de7baf0f3",
+        "id": "349a611959f4616d",
         "type": "tabs",
         "children": [
           {
-            "id": "a284412dcc347b6b",
+            "id": "70b26fd4966dc0c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,14 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a284412dcc347b6b",
+  "active": "70b26fd4966dc0c3",
   "lastOpenFiles": [
-    "Pasted image 20231030061524.png",
-    "Courses/wise23-24/Foundations-of-Linguistics/Chapter 3 - Rules.md",
-    "Courses/wise23-24/Foundations-of-Linguistics/Chapter 2 - Basic Concepts.md",
-    "Courses/wise23-24/Foundations-of-Linguistics/Chapter 1 - Morphology.md",
-    "Pasted image 20231030060911.png",
+    "Courses/wise23-24/Computational-Linguistics/Speech-and-language-proc-jurafsky.pdf",
+    "Courses/wise23-24/Computational-Linguistics/Unconfirmed 885130.crdownload",
+    "Courses/wise23-24/Computational-Psycholinguistics/Course roadmap.md",
+    "Courses/wise23-24/Computational-Psycholinguistics/Untitled.md",
+    "Courses/wise23-24/Computational-Psycholinguistics/Lecture 1.md",
     "Courses/wise23-24/Foundations-of-Linguistics/Haspelmath_Sims_Understanding_Morphology_2010.pdf.crswap",
+    "Courses/wise23-24/Foundations-of-Linguistics/Chapter 1 - Morphology.md",
+    "Courses/wise23-24/Foundations-of-Linguistics/Chapter 2 - Basic Concepts.md",
+    "Courses/wise23-24/Foundations-of-Linguistics/Chapter 3 - Rules.md",
+    "Pasted image 20231030061524.png",
+    "Pasted image 20231030060911.png",
     "Untitled.canvas",
     "Pasted image 20231029161610.png",
     "Courses/wise23-24/statistik-mit-r/stats-mit-r.pdf",
