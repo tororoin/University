@@ -1,0 +1,1 @@
+Hi, i believe you are going through my notes for Foundations of Linguistics. The notes are my creation, but you're free to go through them. I would advise you to also refer to my version of the Haspalmath and other relevant books, as I have made annotations that will help in understanding the topic better.

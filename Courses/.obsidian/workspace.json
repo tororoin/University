@@ -11,8 +11,12 @@
             "id": "7370f72aa5412dc2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "wise23-24/Computational-Linguistics/Assignment guidelines.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data/CoLi/Pasted image 20231031110438.png",
+                "file": "wise23-24/Computational-Linguistics/Assignment guidelines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data/CoLi/Pasted image 20231031110438.png",
+                "file": "wise23-24/Computational-Linguistics/Assignment guidelines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data/CoLi/Pasted image 20231031110438.png"
+                "file": "wise23-24/Computational-Linguistics/Assignment guidelines.md"
               }
             }
           }
@@ -142,14 +146,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94945ef4bab85f79",
+  "active": "7370f72aa5412dc2",
   "lastOpenFiles": [
+    "wise23-24/Foundations-of-Linguistics/CLass Notes/Class 3.md",
+    "wise23-24/Computational-Linguistics/Assignment guidelines.md",
+    "wise23-24/Foundations-of-Linguistics/Chapter 6 - Productivity.md",
+    "wise23-24/Foundations-of-Linguistics/CLass Notes/Found_Ling_class_3.pdf",
+    "wise23-24/Foundations-of-Linguistics/CLass Notes",
+    "wise23-24/Foundations-of-Linguistics/Chapter 9 - Words and phrases.md",
+    "wise23-24/Foundations-of-Linguistics/Chapter 8 - Inflectional Paradigms.md",
+    "wise23-24/Foundations-of-Linguistics/Chapter 5 - Inflection and Derivation.md",
+    "wise23-24/Foundations-of-Linguistics/Chapter 4 - Lexicon.md",
+    "wise23-24/Foundations-of-Linguistics/Chapter 3 - Rules.md",
+    "wise23-24/Foundations-of-Linguistics/Chapter 2 - Basic Concepts.md",
+    "wise23-24/Foundations-of-Linguistics/Chapter 1 - Morphology.md",
+    "Pasted image 20231029161610.png.md",
+    "wise23-24/Foundations-of-Linguistics/Chapter 7 - Morphological Trees.md",
+    "wise23-24/Foundations-of-Linguistics/Chapter 0 - README.md",
+    "wise23-24/Seminar - Clarification Requests/Intro Class.md",
+    "Stuff.md",
+    "Untitled.md",
+    "Data/CoLi/Pasted image 20231031110438.png",
     "wise23-24/Neural-Networks-Implementstions-Applications/General info.md",
     "wise23-24/Seminar - Clarification Requests",
     "wise23-24/Computational-Linguistics/Class Notes/Class 2 (31.10.2023) - Probabilistic Model.md",
     "wise23-24/Neural-Networks-Implementstions-Applications",
     "Pasted image 20231031115057.png",
-    "Data/CoLi/Pasted image 20231031110438.png",
     "Data/CoLi/Pasted image 20231031111049.png",
     "Pasted image 20231031114509.png",
     "Data/CoLi/Pasted image 20231031114336.png",
@@ -167,8 +189,6 @@
     "Data",
     "wise23-24/Computational-Linguistics/My reading Notes/Chapter 1 - Introduction.md",
     "wise23-24/Computational-Psycholinguistics/Course roadmap.md",
-    "wise23-24/Computational-Linguistics/Reference Material/Speech-and-language-proc-jurafsky.pdf",
-    "wise23-24/Computational-Linguistics/Unconfirmed 885130.crdownload",
     "wise23-24/Computational-Psycholinguistics/Lecture 1.md"
   ]
 }

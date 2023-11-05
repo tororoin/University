@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/wise23-24/Foundations-of-Linguistics/Chapter 2 - Basic Concepts.md",
+                "file": "Courses/Stuff.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/wise23-24/Foundations-of-Linguistics/Chapter 2 - Basic Concepts.md",
+                "file": "Courses/Stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/wise23-24/Foundations-of-Linguistics/Chapter 2 - Basic Concepts.md",
+                "file": "Courses/Stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/wise23-24/Foundations-of-Linguistics/Chapter 2 - Basic Concepts.md"
+                "file": "Courses/Stuff.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "70b26fd4966dc0c3",
   "lastOpenFiles": [
+    "Courses/wise23-24/Foundations-of-Linguistics/Chapter 2 - Basic Concepts.md",
+    "Courses/Stuff.md",
     "Courses/wise23-24/Computational-Linguistics/Speech-and-language-proc-jurafsky.pdf",
     "Courses/wise23-24/Computational-Linguistics/Unconfirmed 885130.crdownload",
     "Courses/wise23-24/Computational-Psycholinguistics/Course roadmap.md",
@@ -155,7 +157,6 @@
     "Courses/wise23-24/Computational-Psycholinguistics/Lecture 1.md",
     "Courses/wise23-24/Foundations-of-Linguistics/Haspelmath_Sims_Understanding_Morphology_2010.pdf.crswap",
     "Courses/wise23-24/Foundations-of-Linguistics/Chapter 1 - Morphology.md",
-    "Courses/wise23-24/Foundations-of-Linguistics/Chapter 2 - Basic Concepts.md",
     "Courses/wise23-24/Foundations-of-Linguistics/Chapter 3 - Rules.md",
     "Pasted image 20231030061524.png",
     "Pasted image 20231030060911.png",
