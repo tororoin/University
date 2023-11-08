@@ -6,3 +6,10 @@
 3. 6 assignments * 100 points.
 	1. need to hand in 5
 	2. final score = best score before 
+
+
+## Assignment 1
+1. Zipfs law
+	1. count (and sort)
+	2. count (and sort)
+	3. plot
