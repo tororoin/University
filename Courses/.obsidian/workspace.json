@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computational-Linguistics/Assignment guidelines.md",
+                "file": "Foundations-of-Linguistics/Assignments/Assignment 2 - Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c32fbaf4699a6c67",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computational-Linguistics/Assignment guidelines.md",
+                "file": "Foundations-of-Linguistics/Assignments/Assignment 2 - Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computational-Linguistics/Assignment guidelines.md",
+                "file": "Foundations-of-Linguistics/Assignments/Assignment 2 - Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computational-Linguistics/Assignment guidelines.md"
+                "file": "Foundations-of-Linguistics/Assignments/Assignment 2 - Syntax.md"
               }
             }
           }
@@ -148,12 +149,19 @@
   },
   "active": "b2df1022d30a8a5e",
   "lastOpenFiles": [
+    "Foundations-of-Linguistics/my-notes/Tallerman/Class 5 - Chapter 3 - Looking inside sentences.md",
+    "Foundations-of-Linguistics/Assignments/Assignment 2 - Syntax.md",
+    "Foundations-of-Linguistics/Assignments/Foun_Ling_Syntax_assignment.pdf",
+    "Foundations-of-Linguistics/my-notes/Tallerman/Class X - Chapter 4 - Heads and their dependents.md",
+    "Foundations-of-Linguistics/reference-material/Tallerman_Understanding_Syntax_2014.pdf.crswap",
+    "Foundations-of-Linguistics/my-notes/Tallerman/Doubts.md",
+    "Data/Pasted image 20231111075816.png",
+    "Foundations-of-Linguistics/my-notes/Tallerman/Class 4 - Chapter 1 - Syntax.md",
+    "Computational-Linguistics/Assignment guidelines.md",
     "Computational-Linguistics/Reference Material/Speech-and-language-proc-jurafsky.pdf.crswap",
     "Computational-Linguistics/Class Notes/Class 3 - 7.11.23 - Hidden Markov Models.md",
     "Computational-Psycholinguistics/Lecture 2 - 6.11.23.md",
     "Computational-Psycholinguistics/CP-Lecture1.pdf",
-    "Foundations-of-Linguistics/my-notes/Tallerman/Class 4 - Chapter 1 - Syntax.md",
-    "Foundations-of-Linguistics/reference-material/Tallerman_Understanding_Syntax_2014.pdf.crswap",
     "Foundations-of-Linguistics/my-notes/Haspelmath/Untitled.md",
     "Foundations-of-Linguistics/my-notes/Haspelmath/Chapter 5 - Inflection and Derivation.md",
     "Foundations-of-Linguistics/my-notes/Haspelmath/Chapter 4 - Lexicon.md",
@@ -166,7 +174,6 @@
     "Foundations-of-Linguistics/my-notes/Haspelmath/Chapter 1 - Morphology.md",
     "Foundations-of-Linguistics/my-notes/Haspelmath/Chapter 0 - README.md",
     "Foundations-of-Linguistics/my-notes/Haspelmath",
-    "Foundations-of-Linguistics/my-notes/Tallerman/Untitled.md",
     "Foundations-of-Linguistics/my-notes/Untitled.md",
     "Foundations-of-Linguistics/my-notes/Tallerman",
     "Foundations-of-Linguistics/my-notes/Chapter 8 - Inflectional Paradigms.md",
@@ -175,11 +182,8 @@
     "Foundations-of-Linguistics/my-notes/Chapter 5 - Inflection and Derivation.md",
     "wise23-24/Foundations-of-Linguistics/CLass Notes/Class 3.md",
     "wise23-24/Computational-Linguistics/Assignment guidelines.md",
-    "wise23-24/Foundations-of-Linguistics/Chapter 6 - Productivity.md",
     "wise23-24/Foundations-of-Linguistics/CLass Notes/Found_Ling_class_3.pdf",
     "wise23-24/Foundations-of-Linguistics/CLass Notes",
-    "wise23-24/Foundations-of-Linguistics/Chapter 9 - Words and phrases.md",
-    "wise23-24/Foundations-of-Linguistics/Chapter 8 - Inflectional Paradigms.md",
     "Data/CoLi/Pasted image 20231031110438.png",
     "wise23-24/Seminar - Clarification Requests",
     "wise23-24/Neural-Networks-Implementstions-Applications",
@@ -190,9 +194,6 @@
     "Data/CoLi/Pasted image 20231031114046.png",
     "Data/CoLi/Pasted image 20231031113411.png",
     "Data/CoLi/Pasted image 20231031113109.png",
-    "Data/CoLi/Pasted image 20231031112958.png",
-    "Data/CoLi/Pasted image 20231031111754.png",
-    "Data/CoLi",
-    "wise23-24/Computational-Linguistics/Reference Material"
+    "Data/CoLi/Pasted image 20231031112958.png"
   ]
 }
